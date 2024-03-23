@@ -1,5 +1,6 @@
 ## Awesome Developer, Awesomer Designer
-My name is Mehdi, But you can call me Fluka
+<div align='center'>
+    My name is Mehdi, But you can call me Fluka
 
 <img src="./assets/banner.jpg">
   
