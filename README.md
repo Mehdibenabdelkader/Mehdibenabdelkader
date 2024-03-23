@@ -1,12 +1,10 @@
 ## Awesome Developer, Awesomer Designer
-My name is Mehdi, But you can call me Fluka
 
 <img src="./assets/banner.jpg">
   
-
 I am a network engineer student, I am passionate about technology and computer science. Currently on the path to becoming a Cloud & DevOps engineer.
 
-In addition to my design journey, I am a professional UI/UX designer, determined to create designs that resonate with users by prioritizing their needs and preferences.
+In addition to my Dev, I am a professional UI/UX designer, determined to create designs that resonate with users by prioritizing their needs and preferences.
 
 ### A Jack of all trades, A master of these :
 
