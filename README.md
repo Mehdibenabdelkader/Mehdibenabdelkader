@@ -1,6 +1,4 @@
-### Awesome Developer, Awesomer Designer
-
-
+## Awesome Developer, Awesomer Designer
 I am Mehdi, But you can call me Fluka
 
 I am a computer science student
