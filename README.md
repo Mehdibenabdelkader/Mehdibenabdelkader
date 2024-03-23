@@ -1,5 +1,5 @@
-## Awesome Developer, Awesomer Designer
-I am Mehdi, But you can call me Fluka
+# Awesome Developer, Awesomer Designer
+## My name is Mehdi, But you can call me Fluka
 
 I am a computer science student
 
