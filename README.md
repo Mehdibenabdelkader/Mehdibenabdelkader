@@ -3,7 +3,7 @@
 
 I am Mehdi, But you can call me Fluka
 
-I am computer science student
+I am a computer science student
 
 
 <!--
