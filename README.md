@@ -3,6 +3,8 @@
 
 I am Mehdi, But you can call me Fluka
 
+I am computer science student
+
 
 <!--
 **Mehdibenabdelkader/Mehdibenabdelkader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
