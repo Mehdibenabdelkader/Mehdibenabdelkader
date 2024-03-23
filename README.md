@@ -1,7 +1,7 @@
 ## Awesome Developer, Awesomer Designer
 My name is Mehdi, But you can call me Fluka
 
-<img src="https://github.com/Mehdibenabdelkader/Mehdibenabdelkader/assets/1500x500.jpg?sanitize=true">
+<img src="https://github.com/Mehdibenabdelkader/assets/1500x500.jpg?sanitize=true">
   
 
 I am a computer science student
