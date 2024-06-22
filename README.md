@@ -1,23 +1,14 @@
 ## Awesome Developer, Awesomer Designer
 
 <img src="./assets/banner.jpg">
-![](https://komarev.com/ghpvc/?username=fluka&color=blue)
 
 ## Hey there, I'm Mehdi (aka Fluka)
 
 I am a graphic and UI/UX designer with four years of experience. Currently, I am a college student majoring in network engineering and a passionate developer. I just love creating stuff
 
+![](https://komarev.com/ghpvc/?username=fluka&color=blue)
+
 ### A Jack of all trades, A master of these :
-
-<!-- <div align="center">
-  <a href="https://yourwebsite.com">
-    <img src="https://yourwebsite.com/your-banner-image.jpg" alt="Fluka's Banner">
-  </a>
-
-  <div>Awesome developer, awesomer design</div>
-</div> -->
-
-### My Skills
 
 #### Programming Languages
 
