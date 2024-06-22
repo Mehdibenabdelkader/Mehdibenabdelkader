@@ -1,6 +1,7 @@
 ## Awesome Developer, Awesomer Designer
 
 <img src="./assets/banner.jpg">
+![](https://komarev.com/ghpvc/?username=fluka&color=blue)
 
 ## Hey there, I'm Mehdi (aka Fluka)
 
@@ -15,8 +16,6 @@ I am a graphic and UI/UX designer with four years of experience. Currently, I am
 
   <div>Awesome developer, awesomer design</div>
 </div> -->
-
-![](https://komarev.com/ghpvc/?username=fluka&color=blue)
 
 ### My Skills
 
@@ -70,11 +69,3 @@ Feel free to reach out if you're interested in collaborating or just want to cha
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
-
-![Fluka's GitHub stats](https://github-readme-stats.vercel.app/api?username=fluka&theme=midnight-purple&show_icons=true)
-
----
-
-### Personal Touch
-
-I go by many names, and I am known for many skills. A person from myths and legends, I challenge myself every day to create something amazing. Always striving for excellence in every project I undertake.
