@@ -43,9 +43,9 @@ I am a graphic and UI/UX designer with four years of experience. Currently, I am
 
 ---
 
-Feel free to reach out if you're interested in collaborating or just want to chat about tech!
+Feel free to reach out if you're interested in collaborating or just want to chat!
 
-<div align="center">
+<div >
   <a href="mailto:m.benabdelkader02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
