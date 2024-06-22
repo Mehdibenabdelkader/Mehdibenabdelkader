@@ -35,28 +35,22 @@ I am a graphic and UI/UX designer with four years of experience. Currently, I am
   <img alt="Docker" src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-### Achievements
-
-- **Placeholder Achievement 1**: Description of achievement 1.
-- **Placeholder Achievement 2**: Description of achievement 2.
-- **Placeholder Achievement 3**: Description of achievement 3.
-
 ### Currently Working On
 
-[![Placeholder Repo](https://img.shields.io/badge/GitHub-PlaceholderRepo-green?style=for-the-badge&logo=github)](https://github.com/Fluka/placeholder-repo)
+[![Placeholder Repo](https://img.shields.io/badge/GitHub-PlaceholderRepo-green?style=for-the-badge&logo=github)](https://github.com/Mehdibenabdelkader/flukastudio)
 
 ---
 
 Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:m.benabdelkader02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/mehdibenabdelkader/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://x.com/B_MehdiFluka">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
