@@ -1,26 +1,22 @@
 ## Awesome Developer, Awesomer Designer
 
 <img src="./assets/banner.jpg">
-  
-I am a network engineer student, I am passionate about technology and computer science. Currently on the path to becoming a Cloud & DevOps engineer.
-
-In addition to my Dev, I am a professional UI/UX designer, determined to create designs that resonate with users by prioritizing their needs and preferences.
-
-### A Jack of all trades, A master of these :
-
-<div align="center">
-  <a href="https://yourwebsite.com">
-    <img src="https://yourwebsite.com/your-banner-image.jpg" alt="Fluka's Banner">
-  </a>
-  
-  <div>Awesome developer, awesomer design</div>
-</div>
-
-![](https://komarev.com/ghpvc/?username=fluka&color=blue)
 
 ## Hey there, I'm Mehdi (aka Fluka)
 
 I am a graphic and UI/UX designer with four years of experience. Currently, I am a college student majoring in network engineering and a passionate developer. I just love creating stuff
+
+### A Jack of all trades, A master of these :
+
+<!-- <div align="center">
+  <a href="https://yourwebsite.com">
+    <img src="https://yourwebsite.com/your-banner-image.jpg" alt="Fluka's Banner">
+  </a>
+
+  <div>Awesome developer, awesomer design</div>
+</div> -->
+
+![](https://komarev.com/ghpvc/?username=fluka&color=blue)
 
 ### My Skills
 
