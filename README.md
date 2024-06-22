@@ -37,7 +37,7 @@ I am a graphic and UI/UX designer with four years of experience. Currently, I am
 
 ### Currently Working On
 
-[![Placeholder Repo](https://img.shields.io/badge/GitHub-PlaceholderRepo-green?style=for-the-badge&logo=github)](https://github.com/Mehdibenabdelkader/flukastudio)
+[![Placeholder Repo](https://img.shields.io/badge/GitHub-FlukaStudio-green?style=for-the-badge&logo=github)](https://github.com/Mehdibenabdelkader/flukastudio)
 
 ---
 
