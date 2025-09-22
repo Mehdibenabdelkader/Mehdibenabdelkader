@@ -1,6 +1,10 @@
+
 <samp>
 firm believer that the best way to understand how something works is to break it, and try to put it back together again.
 </samp>
+
+---
+
 <samp>
 <a href="">www</a>  •  <a href="https://x.com/B_MehdiFluka">x</a> • <a href="">resume</a>  • 
 </samp>
