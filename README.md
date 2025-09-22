@@ -1,6 +1,12 @@
-## Awesome Developer, Awesomer Designer
+<samp>
+firm believer that the best way to understand how something works is to break it, and try to put it back together again.
+<a href="">www</a>  •  <a href="https://x.com/B_MehdiFluka">x</a> • <a href="">resume</a>  • 
+</samp>
 
-<img src="./assets/banner.jpg">
+
+<!-- ## Awesome Developer, Awesomer Designer
+
+<!-- <img src="./assets/banner.jpg">
 
 ## Hey there, I'm Mehdi (aka Fluka)
 
@@ -55,4 +61,4 @@ Feel free to reach out if you're interested in collaborating or just want to cha
   <a href="https://x.com/B_MehdiFluka">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-</div>
+</div> --> -->
