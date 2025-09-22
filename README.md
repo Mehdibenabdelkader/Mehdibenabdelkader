@@ -6,7 +6,7 @@ firm believer that the best way to understand how something works is to break it
 
 
 <samp>
-<a href="https://github.com/Mehdibenabdelkader">www</a>  •  <a href="https://x.com/B_MehdiFluka">x</a> • <a href="https://drive.google.com/file/d/1JXwgWm8eLkA9YdLr_g7k193xAQ6OFQok/view?usp=drive_link">resume</a>  • 
+<a href="https://github.com/Mehdibenabdelkader">www</a>  •  <a href="https://x.com/B_MehdiFluka">x</a> • <a href="https://drive.google.com/file/d/1JXwgWm8eLkA9YdLr_g7k193xAQ6OFQok/view?usp=drive_link">resume</a> 
 </samp>
 
 
@@ -67,4 +67,4 @@ Feel free to reach out if you're interested in collaborating or just want to cha
   <a href="https://x.com/B_MehdiFluka">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-</div> --> -->
+</div> -->
