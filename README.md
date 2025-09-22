@@ -6,7 +6,7 @@ firm believer that the best way to understand how something works is to break it
 
 
 <samp>
-<a href="">www</a>  •  <a href="https://x.com/B_MehdiFluka">x</a> • <a href="">resume</a>  • 
+<a href="https://github.com/Mehdibenabdelkader">www</a>  •  <a href="https://x.com/B_MehdiFluka">x</a> • <a href="https://drive.google.com/file/d/1JXwgWm8eLkA9YdLr_g7k193xAQ6OFQok/view?usp=drive_link">resume</a>  • 
 </samp>
 
 
